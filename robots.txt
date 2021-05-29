@@ -1,0 +1,8 @@
+#
+# Robots.txt file for covid19.hj.rs
+#
+# For questions, please contact 8gcmof7k6@relay.firefox.com .
+# https://goo.gl/nCyMnS
+
+User-agent: *
+Disallow: /
