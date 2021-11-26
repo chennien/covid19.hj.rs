@@ -74,4 +74,7 @@ http://covid19.hj.rs/* https://covid19.hj.rs/:splat 301!
 / https://monitor.uruguaysevacuna.gub.uy 302 Country=uy
 / https://covid19.who.int 302
 
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+
 /* https://covid19.hj.rs 302
